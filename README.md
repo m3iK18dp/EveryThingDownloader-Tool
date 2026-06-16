@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/m3iK18dp/EveryThingDownloader/releases">
-    <img src="https://img.shields.io/github/v/release/m3iK18dp/EveryThingDownloader?style=for-the-badge&color=00f2fe" alt="Latest Version">
+  <a href="https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases">
+    <img src="https://img.shields.io/github/v/release/m3iK18dp/EveryThingDownloader-Tool?style=for-the-badge&color=00f2fe" alt="Latest Version">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Platform-Windows-0078d7?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Electron-20.x-477280?style=for-the-badge&logo=electron&logoColor=white" alt="Electron Version">
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/m3iK18dp/EveryThingDownloader?style=for-the-badge&color=f39c12" alt="License">
+    <img src="https://img.shields.io/github/license/m3iK18dp/EveryThingDownloader-Tool?style=for-the-badge&color=f39c12" alt="License">
   </a>
 </p>
 
