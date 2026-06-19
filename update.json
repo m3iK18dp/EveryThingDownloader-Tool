@@ -3,8 +3,9 @@
   "url": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.0.4/EveryThingDownloader-Setup-1.0.4.exe",
   "platforms": {
     "win32": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.0.4/EveryThingDownloader-Setup-1.0.4.exe",
-    "darwin": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.0.4/EveryThingDownloader-1.0.4.dmg",
-    "linux": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.0.4/EveryThingDownloader-1.0.4.AppImage"
+    "darwin_arm64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.0.4/EveryThingDownloader-1.0.4-arm64.dmg",
+    "darwin_x64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.0.4/EveryThingDownloader-1.0.4-x64.dmg",
+    "linux_x64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.0.4/EveryThingDownloader-1.0.4-x64.AppImage"
   },
   "changelog": "Phiên bản mới nhất v1.0.4 đã được phát hành tự động. Xem chi tiết tại mục Releases trên GitHub."
 }
