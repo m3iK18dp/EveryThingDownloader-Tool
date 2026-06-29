@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.1/EveryThingDownloader-Setup-1.1.1.exe",
+  "version": "1.1.2",
+  "url": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.2/EveryThingDownloader-Setup-1.1.2.exe",
   "platforms": {
-    "win32": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.1/EveryThingDownloader-Setup-1.1.1.exe",
-    "darwin_arm64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.1/EveryThingDownloader-1.1.1-arm64.dmg",
-    "darwin_x64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.1/EveryThingDownloader-1.1.1-x64.dmg",
-    "linux_x64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.1/EveryThingDownloader-1.1.1-x64.AppImage"
+    "win32": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.2/EveryThingDownloader-Setup-1.1.2.exe",
+    "darwin_arm64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.2/EveryThingDownloader-1.1.2-arm64.dmg",
+    "darwin_x64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.2/EveryThingDownloader-1.1.2-x64.dmg",
+    "linux_x64": "https://github.com/m3iK18dp/EveryThingDownloader-Tool/releases/download/v1.1.2/EveryThingDownloader-1.1.2-x64.AppImage"
   },
-  "changelog": "Phiên bản mới nhất v1.1.1 đã được phát hành tự động. Xem chi tiết tại mục Releases trên GitHub."
+  "changelog": "Phiên bản mới nhất v1.1.2 đã được phát hành tự động. Xem chi tiết tại mục Releases trên GitHub."
 }
